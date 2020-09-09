@@ -19,3 +19,4 @@
 
 後續使用函式handleFireButton抓取使用者輸入再放入controller，輸入後將輸入欄清空。使用init控制fire按鈕事件並將enter設為keypress事件即完成。
 
+![image](https://github.com/San1123onbridge/0807JSHW-battleship/blob/master/0814.PNG)
